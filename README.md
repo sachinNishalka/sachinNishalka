@@ -51,9 +51,9 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sachinNishalka&repo=n-cafeteria&theme=onedark" />
 </a>
-<a href="https://github.com/sachinNishalka/n-cafeteria">
+<a href="https://github.com/sachinNishalka/DimeKeeper">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sachinNishalka&repo=n-cafeteria&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sachinNishalka&repo=DimeKeeper&theme=onedark" />
 </a>  
 
 
