@@ -180,7 +180,7 @@ Windows & Ubuntu         14 hrs 2 mins      ████████████
  <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/?size=40&id=99g_nik1bya1&format=png&color=000000"/>
  </a>
  
- <a href="mailto:alamin.contact24@gmail.com">
+ <a href="mailto:nishalkasachin@gmail.com">
  <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
 </p>
