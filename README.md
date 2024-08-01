@@ -168,24 +168,18 @@ Windows & Ubuntu         14 hrs 2 mins      ████████████
  <img border="0" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
  </a>
 
- <a href="https://www.linkedin.com/in/alamin20/">
- 
+ <a href="www.linkedin.com/in/sachinnishalka">
  <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
 
-
-
- <a href="https://www.instagram.com/">
+ <a href="https://www.youtube.com/@jsnRoot">
  <img border="0" alt="Hrugved's IG" src="https://img.icons8.com/?size=40&id=80498&format=png&color=000000"/>
  </a>
 
- <a href="https://t.me/alamin2me">
- <img border="0" alt="Hrugved's TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
+ <a href="https://wa.me/0751681976">
+ <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/?size=40&id=99g_nik1bya1&format=png&color=000000"/>
  </a>
-
- <a href="https://discord.com/invite/5RmW6dZKpe6">
- <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
- </a>
+ 
  <a href="mailto:alamin.contact24@gmail.com">
  <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
