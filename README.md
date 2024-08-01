@@ -47,14 +47,16 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Some of My Coolest Projects 😎...***
 
-<a href="https://github.com/MrBlueBird2/to-do-list-flask">
+<a href="https://github.com/sachinNishalka/n-cafeteria">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sachinNishalka&repo=n-cafeteria&theme=blueberry&show_icons=true&hide_border=false&count_private=true" />
 </a>    
-<a href="https://github.com/mrbluebird2/mrbluebird2.github.io">
+
+<a href="https://github.com/sachinNishalka/cashApp">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=onedark"/>
-</a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sachinNishalka&repo=cashApp&theme=blueberry&show_icons=true&hide_border=false&count_private=true" />
+</a>   
+
 
 
 
