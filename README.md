@@ -49,7 +49,7 @@
 
 <a href="https://github.com/sachinNishalka/n-cafeteria">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sachinNishalka&repo=n-cafeteria&theme=blueberry&show_icons=true&hide_border=false&count_private=true" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sachinNishalka&repo=ncafeteria&theme=blueberry&show_icons=true&hide_border=false&count_private=true" />
 </a>    
 
 <a href="https://github.com/sachinNishalka/cashApp">
