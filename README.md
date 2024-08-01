@@ -74,12 +74,12 @@
     </thead>
     <tbody>
      	      <tr>
-	    <td><a href="https://github.com/sachinNishalka/n-cafe"><b>🚀 Lane Detection (OpenCV)</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/sachinNishalka/n-cafe?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/sachinNishalka/n-cafe?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/sachinNishalka/n-cafe?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sachinNishalka/n-cafe?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/sachinNishalka/n-cafe?style=flat-square"/></td>
+	    <td><a href="https://github.com/sachinNishalka/n-cafeteria"><b>🚀 Lane Detection (OpenCV)</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/sachinNishalka/n-cafeteria?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/sachinNishalka/n-cafeteria?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/sachinNishalka/n-cafeteria?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sachinNishalka/n-cafeteria?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/sachinNishalka/n-cafeteria?style=flat-square"/></td>
       </tr>
     </tbody>
   </table>
