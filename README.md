@@ -56,11 +56,11 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sachinNishalka&repo=cashApp&theme=blueberry&hide_border=false" />
 </a>  
 
-
+<br/>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Woooo.... See my projects...***
 
-  <br />
+ 
   <table>
     <thead align="center">
       <tr border: none;>
