@@ -176,7 +176,7 @@ Windows & Ubuntu         14 hrs 2 mins      ████████████
 
 
  <a href="https://www.instagram.com/">
- <img border="0" alt="Hrugved's IG" src="https://img.icons8.com/?size=100&id=80498&format=png&color=000000"/>
+ <img border="0" alt="Hrugved's IG" src="https://img.icons8.com/?size=40&id=80498&format=png&color=000000"/>
  </a>
 
  <a href="https://t.me/alamin2me">
