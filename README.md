@@ -88,6 +88,22 @@
   <a href="https://tailwindcss.com" target="_blank"> 
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
   </a>
+
+ <a href="https://react.dev/" target="_blank"> 
+    <img alt="React JS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+  </a>
+  
+</p>
+
+### ☁️ Cloud
+
+<p align="left"> 
+  <a href="https://aws.amazon.com/" target="_blank"> 
+   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
+  </a>   
+  
+
+  
 </p>
 
 
