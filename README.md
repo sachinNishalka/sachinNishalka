@@ -173,12 +173,10 @@ Windows & Ubuntu         14 hrs 2 mins      ████████████
  <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
 
- <a href="https://twitter.com/">
- <img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
- </a>
+
 
  <a href="https://www.instagram.com/">
- <img border="0" alt="Hrugved's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
+ <img border="0" alt="Hrugved's IG" src="https://img.icons8.com/?size=100&id=80498&format=png&color=000000"/>
  </a>
 
  <a href="https://t.me/alamin2me">
