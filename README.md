@@ -131,7 +131,7 @@
 <table style="width:100%">
   <tr >
     <td rowspan=2>
-	    ![sachinNishalka's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachinNishalka&theme=blueberry&hide_border=false)
+	[![sachinNishalka's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachinNishalka&theme=blueberry&hide_border=false)]
     </td>
     <td>
 	    ![sachinNishalka's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinNishalka&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
