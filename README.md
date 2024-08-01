@@ -129,6 +129,7 @@
 <hr>
 
 ![sachinNishalka's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinNishalka&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
+![sachinNishalka's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachinNishalka&theme=blueberry&hide_border=false)
 
 
 
