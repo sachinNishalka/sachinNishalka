@@ -42,7 +42,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Let`s see some skills...***
 
-*** 📋 Programming languages
+***📋 Programming languages***
 
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"> 
