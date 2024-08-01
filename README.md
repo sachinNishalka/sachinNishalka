@@ -58,9 +58,7 @@
 
 
 
-
-<summary><h2><b>🥇 Open Source Projects open for contributions.</b></h2></summary>
-
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***🥇Woooo..... I created these...***
 
   <br />
   <table>
