@@ -72,16 +72,16 @@
         <td><b>👨‍💻 Language</b></td>
       </tr>
     </thead>
-    <tbody>
-     	      <tr>
-	    <td><a href="https://github.com/sachinNishalka/n-cafeteria"><b>🚀 Lane Detection (OpenCV)</b></a></td>
+    <body>
+	    <tr>
+	    <td><a href="https://github.com/sachinNishalka/n-cafeteria"><b>🍔 N-Cafeteria</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/sachinNishalka/n-cafeteria?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/sachinNishalka/n-cafeteria?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/sachinNishalka/n-cafeteria?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sachinNishalka/n-cafeteria?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/sachinNishalka/n-cafeteria?style=flat-square"/></td>
       </tr>
-	      <tr>
+    <tr>
 	    <td><a href="https://github.com/sachinNishalka/cashApp"><b>💵 CashApp</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/sachinNishalka/cashApp?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/sachinNishalka/cashApp?style=flat-square&labelColor=343b41"/></td>
@@ -105,8 +105,7 @@
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sachinNishalka/symfony-mobile-reseller?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/sachinNishalka/symfony-mobile-reseller?style=flat-square"/></td>
       </tr>
-
-        <tr>
+	<tr>
 	    <td><a href="https://github.com/sachinNishalka/navbar-tailwind-font_awesome"><b>💜 Purple Nav Bar</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/sachinNishalka/navbar-tailwind-font_awesome?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/sachinNishalka/navbar-tailwind-font_awesome?style=flat-square&labelColor=343b41"/></td>
@@ -114,8 +113,7 @@
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sachinNishalka/navbar-tailwind-font_awesome?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/sachinNishalka/navbar-tailwind-font_awesome?style=flat-square"/></td>
       </tr>
-
-      <tr>
+<tr>
 	    <td><a href="https://github.com/sachinNishalka/Flash-Chat-App"><b>💑 Flutter Chatter</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/sachinNishalka/Flash-Chat-App?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/sachinNishalka/Flash-Chat-App?style=flat-square&labelColor=343b41"/></td>
@@ -123,7 +121,8 @@
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/sachinNishalka/Flash-Chat-App?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/sachinNishalka/Flash-Chat-App?style=flat-square"/></td>
       </tr>
-    </tbody>
+    </body> 
+ 
   </table>
 
 <br/>  
